@@ -1,2 +1,0 @@
-# CBCapagngan.github.io
-Sample
