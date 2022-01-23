@@ -1,0 +1,28 @@
+p{
+	font-family: monospace;
+	font-size: 25px;
+}
+
+/*IDs*/
+#headIntro{
+	text-align: center;
+}
+#Introduction{
+	padding-top: 25px;
+	padding-bottom: 25px;
+	text-align: center;
+}
+	
+/*Class*/	
+.picMid{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 15%;
+}
+
+.btn{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
